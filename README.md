@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I am currently working on perfecting my front end developer skills. <br/>
-The latest projects I have been working on are: <b>todaynews</b> and <b>investar_new</b>, 
-
 ### Developer Certificates
 * <b>MS Azure Fundamentals:</b> https://www.youracclaim.com/badges/aad1bae5-1778-4cc0-ac3e-f90f5d400798/public_url
 
