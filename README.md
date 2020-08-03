@@ -2,6 +2,7 @@
 
 ### Developer Certificates
 * <b>MS Azure Fundamentals:</b> https://www.youracclaim.com/badges/aad1bae5-1778-4cc0-ac3e-f90f5d400798/public_url
+* <b>Problem Solving: </b> https://www.hackerrank.com/certificates/4179bb563123
 
 ### Other developer accounts I own:
 * <b>HackerRank</b>: https://www.hackerrank.com/sndegwa_n
