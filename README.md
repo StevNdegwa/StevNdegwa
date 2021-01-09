@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Developer Certificates
-* <b><a href='https://www.youracclaim.com/badges/aad1bae5-1778-4cc0-ac3e-f90f5d400798/public_url'>MS Azure Fundamentals</a></b>
+* <b><a href='https://www.youracclaim.com/badges/aad1bae5-1778-4cc0-ac3e-f90f5d400798/public_url' target='_blank'>MS Azure Fundamentals</a></b>
 * <b><a href='https://www.hackerrank.com/certificates/4179bb563123'>Problem Solving</a></b>
 
 ### Other developer accounts I own:
