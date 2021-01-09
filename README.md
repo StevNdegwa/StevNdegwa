@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ### Developer Certificates
-* <b>MS Azure Fundamentals:</b> https://www.youracclaim.com/badges/aad1bae5-1778-4cc0-ac3e-f90f5d400798/public_url
-* <b>Problem Solving: </b> https://www.hackerrank.com/certificates/4179bb563123
+* <b><a href='https://www.youracclaim.com/badges/aad1bae5-1778-4cc0-ac3e-f90f5d400798/public_url'>MS Azure Fundamentals</a></b>
+* <b><a href='https://www.hackerrank.com/certificates/4179bb563123'>Problem Solving</a></b>
 
 ### Other developer accounts I own:
-* <b>HackerRank</b>: https://www.hackerrank.com/sndegwa_n
-* <b>Observable</b>: https://observablehq.com/@stevndegwa
+* <b><a href='https://www.hackerrank.com/sndegwa_n'>HackerRank</a></b>
+* <b><a href='https://observablehq.com/@stevndegwa'>Observablehq</a></b>
 
 <!--
 **StevNdegwa/StevNdegwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
