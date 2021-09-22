@@ -4,7 +4,6 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevndegwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![StevNdegwa's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevNdegwa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 * <b><a href='https://www.hackerrank.com/sndegwa_n'>HackerRank</a></b>
