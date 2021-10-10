@@ -1,13 +1,12 @@
 ### Hi there 👋
 
+[![Hackerrank](https://i.ibb.co/vBH96cV/hackerrank.png)](https://www.hackerrank.com/sndegwa_n)
+[![Observable](https://i.ibb.co/N9ff84y/observablehq.png)](https://observablehq.com/@stevndegwa)
+
 [![StevNdegwa GitHub stats](https://github-readme-stats.vercel.app/api?username=stevndegwa)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevndegwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
-
-* <b><a href='https://www.hackerrank.com/sndegwa_n'>HackerRank</a></b>
-* <b><a href='https://observablehq.com/@stevndegwa'>Observablehq</a></b>
 
 <!--
 **StevNdegwa/StevNdegwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
