@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+### Other dev accounts
 [![Hackerrank](https://i.ibb.co/vBH96cV/hackerrank.png)](https://www.hackerrank.com/sndegwa_n)
+<br/>
 [![Observable](https://i.ibb.co/N9ff84y/observablehq.png)](https://observablehq.com/@stevndegwa)
 
+<!-- 
 [![StevNdegwa GitHub stats](https://github-readme-stats.vercel.app/api?username=stevndegwa)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+<br/> 
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevndegwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
