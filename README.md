@@ -2,7 +2,6 @@
 
 ### Other dev accounts
 [![Hackerrank](https://i.ibb.co/vBH96cV/hackerrank.png)](https://www.hackerrank.com/sndegwa_n)
-<br/>
 [![Observable](https://i.ibb.co/N9ff84y/observablehq.png)](https://observablehq.com/@stevndegwa)
 
 <!-- 
